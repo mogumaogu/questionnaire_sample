@@ -1,0 +1,16 @@
+body {
+  font-size: 14px; 
+  line-height: 22px; 
+  text-align: left; 
+}
+
+table.image  {
+  margin-top: 5px; 
+  margin-bottom: 5px;
+  margin-left: 100px; 
+  margin-right: auto; 
+}
+
+table.image  td  {
+  text-align: center; 
+}
