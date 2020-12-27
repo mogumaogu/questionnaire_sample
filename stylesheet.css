@@ -7,8 +7,8 @@ body {
 table.image  {
   margin-top: 5px; 
   margin-bottom: 5px;
-  margin-left: 100px; 
-  margin-right: auto; 
+  margin-left: auto; 
+  margin-right: 100px; 
 }
 
 table.image  td  {
